@@ -40,5 +40,5 @@ flyway {
 	url = 'jdbc:mysql://localhost:3306/testdb?useSSL=false&serverTimezone=UTC&characterEncoding=utf8'
 	user = 'root'
 	password = 'vnfmsqka0727!'
-	// driver = 'com.mysql.jdbc.Driver'  기본으로 등록되어있다고 한다.
+	// driver = 'com.mysql.jdbc.Driver'  기본으로 등록되어있다.
 }
